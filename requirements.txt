@@ -1,3 +1,21 @@
+# ============================================================
+# requirements.txt — Python packages needed for this project
+# ============================================================
+# Install all of these by running: pip install -r requirements.txt
+#
+# WHY EACH PACKAGE IS NEEDED:
+#   pandas       — Data manipulation. Creates DataFrames (spreadsheet-like tables)
+#                  for inspecting and transforming data.
+#   scikit-learn — The core ML library. Provides the Iris dataset, model algorithms
+#                  (Random Forest, SVM, etc.), train/test splitting, and evaluation
+#                  metrics (accuracy, precision, recall).
+#   matplotlib   — Plotting. Creates charts, graphs, and visualizations.
+#   seaborn      — Statistical visualization built on matplotlib. Makes pairplots,
+#                  heatmaps, and box plots easier to create.
+#   jupyter      — Runs interactive notebooks (.ipynb files) where you can execute
+#                  code one cell at a time and see results inline.
+# ============================================================
+
 pandas
 scikit-learn
 matplotlib
