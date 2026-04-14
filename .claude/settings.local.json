@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/Users/evanl/OneDrive/Documents/VSCode/Personal/how_to_train_a_model\" log --oneline)",
+      "Bash(pip install:*)",
+      "Bash(python train.py)"
+    ]
+  }
+}
